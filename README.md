@@ -1,2 +1,2 @@
-# sayi-teorisi-kripto-cuzdan-simulasyonnu
+# number-theory-crypto-wallet-sim
 sayı teorisi ve kripto cüzdan simülasyonu 
